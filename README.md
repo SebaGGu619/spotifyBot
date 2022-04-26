@@ -2,6 +2,15 @@
 
 Spotify Bot built on python and using Firefox. Only runs in headful mode.
 
+# How to run:
+
+1. Add your acccounts and passwords in the text files, each account on a new line.
+2. Run the script. (Or don't, see the disclaimer at the bottom.)
+3. Wait for the script to do its thing.
+4. Once the script is done let the Firefox Windows run in the background.
+5. ...
+6. *Profit?*
+
 # DISCLAIMER:
 
 ### This is illegal if you use this without the consent of the owners (in this case, the Spotify team).
