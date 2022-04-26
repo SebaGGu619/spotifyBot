@@ -3,7 +3,7 @@ import pyautogui
 import pygetwindow as gw
 import time
 
-songName = "Doi saci de gunoi"
+songName = "Darude Sandstorm" # Song name here
 nrOfSessions = 1
 
 f = open("accounts.txt", "r")
