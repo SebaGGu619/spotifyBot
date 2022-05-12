@@ -1,5 +1,7 @@
 # spotifyBot
 
+## ---Only works on Windows for now---
+
 Spotify Bot built on python and using Firefox. Only runs in headful mode.
 
 # How to run:
